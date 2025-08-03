@@ -1,13 +1,18 @@
 # Drum Kit 🥁
 
-Welcome to the **Drum Kit** project! This interactive web application allows users to play a virtual drum kit using their mouse or keyboard. It's a fun and engaging way to create music and explore rhythm.
+&nbsp;&nbsp;Welcome to the **Drum Kit** project! This interactive web application allows users to play a virtual drum kit using their mouse or keyboard. It's a fun and engaging way to create music and explore rhythm.
 
 - [Drum Kit 🥁](#drum-kit-)
+  - [Interface](#interface)
   - [Features](#features)
   - [Getting Started](#getting-started)
   - [Usage](#usage)
   - [Support My Work ☕](#support-my-work-)
   - [Contact Me](#contact-me)
+
+## Interface
+
+&nbsp;&nbsp;The interface is designed to be user-friendly and visually appealing.
 
 ## Features
 
@@ -18,12 +23,12 @@ Welcome to the **Drum Kit** project! This interactive web application allows use
 
 ## Getting Started
 
-&nbsp;&nbsp;To get started with the Dice Game, follow these steps:
+&nbsp;&nbsp;To get started with the Drum Kit, follow these steps:
 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/PrimeSolar/dice-game.git
+   git clone https://github.com/PrimeSolar/drum-kit.git
    ```
 
 2. **Open the Application**: navigate to the cloned directory and open the `index.html` file in your web browser.
@@ -32,7 +37,7 @@ Welcome to the **Drum Kit** project! This interactive web application allows use
 
 ## Usage
 
-Press the keys W, A, S, D, J, K, L on your keyboard or click on the images to play different drum sounds. Happy drumming! 🥁
+&nbsp;&nbsp;Press the keys W, A, S, D, J, K, L on your keyboard or click on the images to play different drum sounds. Happy drumming! 🥁
 
 ## Support My Work ☕
 

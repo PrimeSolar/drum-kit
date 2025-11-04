@@ -78,7 +78,7 @@ h1 {
   font-family: "Arvo", cursive;
   line-height: 2;
   font-weight: 900;
-  color: #da0468; /* Set the color for the text of the element */
+  color: #da0468; /* Set the color for the text of the element. */
   text-shadow: 3px 0 #dbedf7;
   border-radius: 15px;
   display: inline-block;
@@ -95,29 +95,29 @@ h1 {
 
 #footerContainer {
   display: block;
-  margin: 0; /* Remove any default margin */
-  padding: 0; /* Remove any default padding */
+  margin: 0; /* Remove any default margin. */
+  padding: 0; /* Remove any default padding. */
 }
 
 footer {
   display: block;
   bottom: 0;
-  color: #eeeeee; /* Set the text color to white */
+  color: #eeeeee; /* Set the text color to white. */
   left: 0;
-  margin: 0; /* Remove any default margin */
-  padding: 1em 0; /* Set the thickness of the padding area */
-  position: fixed; /* Position the element fixed to the viewport */
-  text-align: center; /* Set the alignment of the text */
-  width: 100%; /* Set the width of the element to 100% of its parent container */
+  margin: 0; /* Remove any default margin. */
+  padding: 1em 0; /* Set the thickness of the padding area. */
+  position: fixed; /* Position the element fixed to the viewport. */
+  text-align: center; /* Set the alignment of the text. */
+  width: 100%; /* Set the width of the element to 100% of its parent container. */
   font-size: 1.7rem;
   font-family: "Arvo", cursive;
 }
 
 footer a {
-  color: #eeeeee; /* Set the text color to white */
+  color: #eeeeee; /* Set the text color to white. */
   text-decoration: underline;
 }
 
 footer a:visited {
-  color: #eeeeee; /* Set the text color to white */
+  color: #eeeeee; /* Set the text color to white. */
 }

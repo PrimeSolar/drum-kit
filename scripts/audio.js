@@ -1,4 +1,4 @@
-/*
+/**
  * Script
  *
  * Copyright © Vladislav Kazantsev
@@ -13,7 +13,7 @@
  * For inquiries about collaboration, usage outside exploratory purposes, or permissions, please contact: hypervisor7@pm.me
  */
 
-// Switch audio depending on a key
+/** Switch audio depending on a key. */
 function makeSound(key) {
   switch (key) {
     case "w":
@@ -43,7 +43,7 @@ function makeSound(key) {
   }
 }
 
-// Detect a button click
+/** Detect a button click. */
 var buttons = document.querySelectorAll(".drum");
 for (i = 0; i < buttons.length; i++) {
   buttons[i].addEventListener("click", function () {
@@ -53,7 +53,7 @@ for (i = 0; i < buttons.length; i++) {
   });
 }
 
-// Detect a key press
+/** Detect a key press. */
 document.addEventListener("keydown", function (event) {
   makeSound(event.key);
   buttonAnimation(event.key);

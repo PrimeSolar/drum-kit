@@ -18,8 +18,10 @@ body {
   background-color: #283749;
 }
 
+/* The style sheet includes detailed property comments
+to support stakeholders with varying CSS knowledge. */
 h1 {
-  font-size: 5rem;
+  font-size: 5rem; /* Set the font size for the text of the element. */
   color: #dbedf3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #da0468;
@@ -74,7 +76,7 @@ h1 {
 .drum {
   outline: none;
   border: 10px solid #4a4b69;
-  font-size: 5rem;
+  font-size: 5rem; /* Set the font size for the text of the element. */
   font-family: "Arvo", cursive;
   line-height: 2;
   font-weight: 900;
@@ -93,7 +95,7 @@ h1 {
   transform: translate(0, 5px);
 }
 
-#footerContainer {
+#FooterContainer {
   display: block;
   margin: 0; /* Remove any default margin. */
   padding: 0; /* Remove any default padding. */
@@ -109,7 +111,7 @@ footer {
   position: fixed; /* Position the element fixed to the viewport. */
   text-align: center; /* Set the alignment of the text. */
   width: 100%; /* Set the width of the element to 100% of its parent container. */
-  font-size: 1.7rem;
+  font-size: 1.7rem; /* Set the font size for the text of the element. */
   font-family: "Arvo", cursive;
 }
 

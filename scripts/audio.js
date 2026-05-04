@@ -15,6 +15,10 @@
 
 /** Switch audio depending on a key. */
 function makeSound(key) {
+  /**
+   * The script includes detailed comments
+   * to support stakeholders with varying JS knowledge.
+   */
   switch (key) {
     case "w":
       new Audio("assets/sounds/tom-1.mp3").play();
